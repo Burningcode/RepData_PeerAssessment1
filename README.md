@@ -1,3 +1,8 @@
+## Please use the PDF file, as the .md file. All data was included, r3.2.2 was having issues producing the md file in a format with all of needed data. 
+
+
+
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
